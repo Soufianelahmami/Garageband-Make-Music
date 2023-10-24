@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "b24339be-5505-4200-b8a4-02c90829f992",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
+	 "image": "https://iili.io/JKjPu3B.webp",
+	 "title": "Garageband Make Music 1",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
+	 "image": "https://iili.io/JKjPI4V.webp",
+	 "title": "Garageband Make Music 2",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
+	 "image": "https://iili.io/JKjPChb.webp",
+	 "title": "Garageband Make Music 3",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
+	"image": "https://iili.io/JKjPxCx.webp",
+	 "title": "Garageband Make Music 4",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
+	"image": "https://iili.io/JKjPzEQ.webp",
+	 "title": "Garageband Make Music 5",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
+	"image": "https://iili.io/JKjPnQj.webp",
+	 "title": "Garageband Make Music 6",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
