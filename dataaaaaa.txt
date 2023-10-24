@@ -59,7 +59,7 @@
 	{
 	 "image": "https://iili.io/JKjPI4V.webp",
 	 "title": "Garageband Make Music 2",
-	 "text": "xxxx",
+	 "text": "GarageBand's virtual instruments and MIDI capabilities make it a great platform for songwriting. You can create melodies, chord progressions, and arrange your songs using the built-in tools.",
 	 "text_two": "",
 
 	 "isLocked": true,
@@ -69,7 +69,7 @@
 	{
 	 "image": "https://iili.io/JKjPChb.webp",
 	 "title": "Garageband Make Music 3",
-	 "text": "xxxx",
+	 "text": "You can record live instruments or vocals using GarageBand's audio recording feature. Use the editing tools to refine your recordings, cut and arrange audio clips, and correct mistakes.",
 	 "text_two": "",
 
 	 "isLocked": false,
@@ -79,7 +79,7 @@
 	{
 	"image": "https://iili.io/JKjPxCx.webp",
 	 "title": "Garageband Make Music 4",
-	 "text": "xxxx",
+	 "text": "GarageBand comes with a wide range of virtual instruments such as pianos, guitars, drums, and more. You can use these instruments to create entire compositions without the need for physical instruments.",
 	 "text_two": "",
 
 	 "isLocked": false,
@@ -89,7 +89,7 @@
 	{
 	"image": "https://iili.io/JKjPzEQ.webp",
 	 "title": "Garageband Make Music 5",
-	 "text": "xxxx",
+	 "text": "Experiment with the software instruments and loops to add textures and layers to your music. GarageBand offers a vast library of pre-recorded loops and samples for various genres.",
 	 "text_two": "",
 
 	 "isLocked": false,
@@ -99,7 +99,7 @@
 	{
 	"image": "https://iili.io/JKjPnQj.webp",
 	 "title": "Garageband Make Music 6",
-	 "text": "xxxx",
+	 "text": "GarageBand allows you to record multiple tracks, so you can record different parts of a song separately and then mix them together. This is essential for creating complex compositions.",
 	 "text_two": "",
 
 	 "isLocked": false,
